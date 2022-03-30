@@ -1,12 +1,24 @@
 \babel@toc {russian}{}\relax 
-\contentsline {section}{Введение}{2}{}%
+\contentsline {section}{Введение}{3}{}%
 \contentsline {section}{\numberline {1}История создания и развития антивируса}{4}{}%
 \contentsline {subsection}{\numberline {1.1}История компании}{4}{}%
 \contentsline {subsection}{\numberline {1.2}Продукты и решения}{4}{}%
 \contentsline {subsection}{\numberline {1.3}Последние достижения в технологиях и инновациях}{4}{}%
-\contentsline {section}{\numberline {2}Системные требования}{6}{}%
-\contentsline {section}{\numberline {3}Обзор функционала}{7}{}%
-\contentsline {section}{\numberline {4}Главное окно приложения}{9}{}%
-\contentsline {section}{\numberline {5}Параметры}{10}{}%
-\contentsline {section}{\numberline {6}Тестирование}{11}{}%
-\contentsline {section}{\numberline {7}Преимущества и недостатки}{12}{}%
+\contentsline {section}{\numberline {2}Системные требования}{5}{}%
+\contentsline {section}{\numberline {3}Обзор функционала}{6}{}%
+\contentsline {section}{\numberline {4}Главное окно приложения}{7}{}%
+\contentsline {subsection}{\numberline {4.1}Проверка}{8}{}%
+\contentsline {subsection}{\numberline {4.2}Антивирус}{8}{}%
+\contentsline {subsection}{\numberline {4.3}VPN}{8}{}%
+\contentsline {subsection}{\numberline {4.4}Мои устройста}{8}{}%
+\contentsline {subsection}{\numberline {4.5}Поддержка}{8}{}%
+\contentsline {subsection}{\numberline {4.6}Защита USB}{8}{}%
+\contentsline {subsection}{\numberline {4.7}Монитор процессов}{8}{}%
+\contentsline {subsection}{\numberline {4.8}Набор восстановления}{9}{}%
+\contentsline {subsection}{\numberline {4.9}Мои продукты}{9}{}%
+\contentsline {subsection}{\numberline {4.10}Улучшите вашу защиту}{9}{}%
+\contentsline {subsection}{\numberline {4.11}Настройки}{9}{}%
+\contentsline {section}{\numberline {5}Тестирование}{10}{}%
+\contentsline {section}{\numberline {6}Преимущества и недостатки}{12}{}%
+\contentsline {section}{Заключение}{13}{}%
+\contentsline {section}{Список литературы}{14}{}%
