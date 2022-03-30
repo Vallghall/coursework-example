@@ -1,0 +1,9 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Введение}{2}{}%
+\contentsline {section}{\numberline {1}История создания и развития антивируса}{4}{}%
+\contentsline {section}{\numberline {2}Системные требования}{5}{}%
+\contentsline {section}{\numberline {3}Функционал}{6}{}%
+\contentsline {section}{\numberline {4}Главное окно приложения}{7}{}%
+\contentsline {section}{\numberline {5}Параметры}{8}{}%
+\contentsline {section}{\numberline {6}Тестирование}{9}{}%
+\contentsline {section}{\numberline {7}Преимущества и недостатки}{10}{}%
